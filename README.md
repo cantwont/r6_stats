@@ -1,6 +1,7 @@
 # R6_Stats
 
 Easily grab player stats for the game Rainbow 6: Siege
+https://pypi.org/project/r6-stats/
 
 ## Table of Contents
 
