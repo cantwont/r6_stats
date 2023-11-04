@@ -45,6 +45,7 @@ print(get_profile_level(platform, username))
 
 print(get_season_info(platform, username))
 # {'Heavy Mettle': {'MMR': '2,131', 'Matches': 'Matches 28', 'KD': 'K/D 0.80'}}
+# (Spoit's season info was too long so I used mine 😂)
 
 
 print(get_rank_image('CHAMPION'))
