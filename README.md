@@ -27,7 +27,7 @@ pip install lxml
 This will be shortened in the future as I still have some debugging to do
 
 ```bash
-pip install -i https://test.pypi.org/simple/ r6-stats
+pip install r6_stats
 ```
 ## Usage
 ```py
